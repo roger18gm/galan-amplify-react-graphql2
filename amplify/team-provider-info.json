@@ -10,6 +10,11 @@
       "StackName": "amplify-galanamplifyreactgra-staging-246f3",
       "StackId": "arn:aws:cloudformation:us-west-2:767398155210:stack/amplify-galanamplifyreactgra-staging-246f3/8ae9bd50-30b6-11ef-b873-0a4eab1aa905",
       "AmplifyAppId": "d1937qvlyo8d9m"
+    },
+    "categories": {
+      "auth": {
+        "galanamplifyreactgrae5f13679": {}
+      }
     }
   }
 }
