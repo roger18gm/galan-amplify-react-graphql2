@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "galanamplifyreactgrae5f13679": {}
+      },
+      "api": {
+        "galanamplifyreactgra": {}
+      },
+      "storage": {
+        "s3e22896e5": {}
       }
     }
   }
